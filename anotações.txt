@@ -1,0 +1,7 @@
+npm init
+npm install --save-dev typescript
+npm install lite-server
+npm install typescript -g
+[no CMD, fora do VSCODE]: tsc --init
+npm start [para js]
+npm run watch [para ts]
